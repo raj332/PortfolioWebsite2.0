@@ -43,6 +43,7 @@ body {
     font-size: 1.5rem;
     font-weight: 600;
     color: rgba(0, 0, 0, 0.678);
+text-decoration :none:
 }
 
 #nav>a:hover {
@@ -130,6 +131,7 @@ body {
 }
 
 .work-box {
+text-decoration :none:
     color: white;
     font-size: 2rem;
     height: 40rem;
