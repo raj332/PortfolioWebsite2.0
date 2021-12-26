@@ -129,7 +129,9 @@ text-decoration :none:
     margin: 5rem;
     text-align: center;
 }
-
+#portfolio > a {
+text-decoration:none;
+}
 .work-box {
 text-decoration :none:
     color: white;
