@@ -7,8 +7,6 @@ html {
     font-size: 62.5%;
     scroll-behavior: smooth;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    overflow-x: hidden;
-    width:100%;
 }
 
 body {
@@ -375,9 +373,9 @@ text-decoration :none;
 }
 
 @media only screen and (max-width: 600px) { 
-     html {
+     html,body{
         width: 100%;
-        overflow-x: hidden;
+        overflow-x:hidden;
         font-size: 58%;
     }
  .titles {
