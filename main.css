@@ -374,9 +374,11 @@ text-decoration :none;
     bottom: 0;
 }
 
-@media only screen and (max-width: 600px) {
-html{
-    font-size:58%;
+@media only screen and (max-width: 600px) { 
+     html {
+        width: 100%;
+        overflow-x: hidden;
+        font-size: 58%;
     }
  .titles {
         text-align: center;
