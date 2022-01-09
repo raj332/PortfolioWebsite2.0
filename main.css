@@ -223,7 +223,7 @@ text-decoration :none;
 #profile>#pic {
     height: 50rem;
     width: 45rem;
-    background-image: url("pics/profilepic.jpg");
+    background-image: url('pics/profilepic.jpg');
     background-size: cover;
     margin-top: 2rem;
 }
