@@ -114,7 +114,7 @@ body {
 #right-box2 {
     height: 47rem;
     width: 38rem;
-    background-image: url('pics/posterpic.JPG');
+    background-image: url('pics/posterpic.jpeg');
     background-size: cover;
     position: absolute;
     transform: rotate(7deg);
